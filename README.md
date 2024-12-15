@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BalVij-Data
-- 👀 I’m interested in Data Analytics & Data Science 
+- 👀 I’m interested in Data Analytics & Data Science Including the concepts of SQL & Python
 - 🌱 I’m currently learning Data Visualization 
 - 💞️ I’m looking to collaborate on projects related to Visualization and Business Intelligence 
 - 📫 How to reach me  balajikotgyale18@gmail.com
